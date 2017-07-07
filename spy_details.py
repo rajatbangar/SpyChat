@@ -1,5 +1,4 @@
 #spy detail file
-import sys
 print 'hello!\nLet\'s get started!'
 
 
